@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Site web du cours IFT4055 pour Mériadec Finoude à la session d'automne 2023"
+title: "Site web du cours IFT4055"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -35,7 +35,7 @@ en documentant sa progression et ses découvertes.
 
 Superviseur
 ======
-Mon superviseur pour ce projet est le professeur [Jian-Yun Ni](http://rali.iro.umontreal.ca/nie/jian-yun-nie/). Mr. Nie est Professeur titulaire dans le laboratoire de recherche appliquée en linguistique informatique (RALI) de l'Université de MOntréal.
+Mon superviseur pour ce projet est le professeur [Jian-Yun Ni](http://rali.iro.umontreal.ca/nie/jian-yun-nie/). Mr. Nie est Professeur titulaire dans le laboratoire de recherche appliquée en linguistique informatique (RALI) de l'Université de Montréal.
 
 Évolution du projet
 ======
