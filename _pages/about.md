@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Site web du cours IFT4055"
+# title: "title"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
