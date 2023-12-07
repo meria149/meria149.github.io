@@ -48,7 +48,7 @@ Cette semaine, j'ai rencontré pour la première fois mon professeur. Ensemble, 
 ------
 J'ai obtenu accès aux données et clarifié les étapes du projet avec mon superviseur.
 
-- Semaine 3 (1er ocobre au 7 décembre 2023)
+- Semaine 3 - 9 (1er ocobre au 7 décembre 2023)
 -------
 Durant ces semaines, j'ai focusé beaucoup sur la première partie du projet, qui est l'analyse de la corrélation entre le budget et les achats des clients. Notre analyse a d'abord requis d'obtenir des informations additionnelles notamment le poids de chaque produit (pour calculer prix par unité des produit). En effet, il était impossible de comparer les achats des produits sans connaitre le poids de chaque produit (en grammes ou en mL) et pouvoir réellement voir si dans une même catégorie un produit est plus cher qu'un autre par unité.
 
